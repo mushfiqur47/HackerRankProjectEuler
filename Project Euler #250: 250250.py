@@ -1,4 +1,5 @@
 #Slow and cant pass all the test case but worked.
+#need optimization
 
 
 def compute(n, k):
