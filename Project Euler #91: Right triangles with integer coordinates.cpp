@@ -1,8 +1,3 @@
-
-Project Euler #91: Right triangles with integer coordinates
-
-
-
 #include <iostream>
 #include <algorithm>
 
